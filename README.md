@@ -26,6 +26,7 @@ file/
 ```
 
 ### 環境需求
+- GPU(非強迫，但有GPU速度會更快)
 - python 3.10+
 - Opencv 4.11.0.86 
 - ultralytics 8.3.152
