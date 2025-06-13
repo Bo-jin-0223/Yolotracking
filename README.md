@@ -58,6 +58,7 @@ cd file
 - opencv https://opencv.org/
 - ultralytics https://www.ultralytics.com/zh
 - roboflow https://roboflow.com/
+- 教學檔案 https://docs.google.com/presentation/d/19blP637dl4qPmJAiD6Hbb1fZpU2iDv8i/edit?usp=drive_link&ouid=100548288520061624838&rtpof=true&sd=true
 
 
 
