@@ -1,0 +1,23 @@
+{
+    "MODEL_PATH" :"C:/Users/USER/yolotracking/model/train3/weights/best.pt",
+    "VIDEO_PATH" :"C:/Users/USER/yolotracking/video/video19.mp4",
+    "TRACKER" :"botsort.yaml",
+    "WRONG_CAR" :"C:/Users/USER/yolotracking/output/classification/wrong_car",
+    "MIN_WIDTH": 25,
+    "MIN_HEIGHT":20,
+    "OUTPUT_DIRS" :{
+        "car": "C:/Users/USER/yolotracking/output/classification/car",
+        "motor": "C:/Users/USER/yolotracking/output/classification/motor",
+        "picked_truck": "C:/Users/USER/yolotracking/output/classification/picked_truck",
+        "big_truck": "C:/Users/USER/yolotracking/output/classification/big_truck"
+        },
+    "OUTPUT_VIDEO" :"C:/Users/USER/yolotracking/output/classification/output.mp4",
+    "IMAGES_DIR" : "C:/Users/USER/yolotracking/output/write_in_txt/images",
+    "LABELS_DIR" : "C:/Users/USER/yolotracking/output/write_in_txt/labels",
+    "Function_mode" :"write_in_txt"
+
+}
+
+
+
+

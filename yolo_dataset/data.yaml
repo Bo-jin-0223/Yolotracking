@@ -1,0 +1,13 @@
+train: C:/Users/USER/yolotracking_todo/yolo_dataset/train/images
+val: C:/Users/USER/yolotracking_todo/yolo_dataset/train/images
+test: ../test/images
+
+nc: 4
+names: ['big_truck', 'car', 'motor', 'picked_truck']
+
+roboflow:
+  workspace: project-2gbl5
+  project: yolotracking
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-2gbl5/yolotracking/dataset/1
